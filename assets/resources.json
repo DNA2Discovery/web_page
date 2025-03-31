@@ -28,5 +28,25 @@
         "image":"assets/images/res5.png",
         "class":"col-4",
         "isfeatured":false
+      },
+      {
+        "id": 4,
+        "title": "RNA-Seq Analysis and Gene Regulation",
+        "postedOn": "Dec 20, 2024",
+        "type":"PROJECT",
+        "description": "Analyzing RNA sequencing (RNA-Seq) data for uncovering gene regulation patterns.",
+        "image":"assets/images/res5.png",
+        "class":"col-4",
+        "isfeatured":false
+      },
+      {
+        "id": 5,
+        "title": "RNA-Seq Analysis and Gene Regulation",
+        "postedOn": "Dec 20, 2024",
+        "type":"POST",
+        "description": "Analyzing RNA sequencing (RNA-Seq) data for uncovering gene regulation patterns.",
+        "image":"assets/images/res5.png",
+        "class":"col-4",
+        "isfeatured":false
       }
 ]
